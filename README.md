@@ -1,5 +1,11 @@
 # Taste Skill
 
+<p>
+  <a href="https://tasteskill.dev">
+    <img src="https://img.shields.io/badge/Official_Website-tasteskill.dev-black?style=for-the-badge&logo=vercel" alt="Official Website" />
+  </a>
+</p>
+
 A collection of skills that improve how AI tools write frontend code. Instead of generating generic, boring interfaces, the AI builds modern, premium designs with proper animations, spacing, and visual quality.
 
 [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Compatible-blue?style=flat-square)](https://github.com/vercel-labs/agent-skills)
