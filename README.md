@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme-banner.png" alt="Taste Skill — Anti-slop Agent Skills for premium frontends" width="100%" />
+</p>
+
 # Taste Skill
 
 <p>
