@@ -165,13 +165,19 @@ Default away from "always text-left, image-right". Each section picks 1 anchor; 
 - Stacked center (label / headline / sub / CTA all centered, ultra minimalist)
 
 ### Background Mode (per-section)
-Pick 1 per section; vary across the page so it is never all the same mode.
+Pick 1 per section; vary across the page so it is never all the same mode. Be **confident** with backgrounds — they are a primary tool, not a risk.
 - Solid surface with inline asset
 - Subtle texture / paper / grid as background
 - Full-bleed image background with tonal overlay (text remains highly readable)
 - Editorial side-image (50/50, 60/40, 40/60 — invertible)
 - Image as the entire visual + text overlaid in a clean safe area
 - Flat color block + small product / detail crop as accent
+- Cinematic tonal gradient (palette-matched, low chroma, professional)
+- Atmospheric photo with strong color grade (single-tone graded for brand mood)
+- Duotone treated image (two-color photo treatment, palette-locked)
+- Soft radial vignette + product crop (luxury / editorial feel)
+- Micro-noise gradient over solid (premium tactile depth, not flashy)
+- Color-blocked diptych (two flat fields meeting, modernist)
 
 ### CTA Variation
 Pick the CTA style that fits each section, not a default pill every time:
@@ -590,12 +596,38 @@ When using full-bleed image backgrounds:
 - use overlays (dark, light, or color tint) to keep text fully readable
 - the brand accent stays consistent regardless of background image
 
+### Gradient Discipline
+Gradients are **allowed and encouraged** when professional and subtle. They are not the same as AI slop gradients.
+
+Allowed (use confidently):
+- low-chroma palette-matched tonal gradients (e.g. ink to graphite, cream to sand, ivory to warm grey)
+- single-hue atmospheric grades behind hero photography
+- soft vignettes and radial depth that direct the eye
+- noise-textured gradients adding tactile depth without color noise
+- editorial color washes that match brand mood
+
+Banned (AI gradient slop):
+- rainbow / mesh blob gradients
+- purple-to-blue "AI" defaults
+- pink-to-orange "creator" defaults
+- neon edges and glow halos with no purpose
+- gradient text as a shortcut for "premium"
+- gradients that compete with imagery instead of supporting it
+
+### Background Confidence Rule
+Do not retreat to plain white surfaces by default. When the brief, brand mood, or section job calls for atmosphere, use:
+- a full-bleed image,
+- a duotone or graded photo,
+- a tonal gradient,
+- a tactile material,
+or a confident flat color field — picked deliberately, not as decoration.
+
 ### Strong guidance
 - avoid rainbow randomness
 - avoid over-neon unless requested
-- avoid generic startup gradient dependence
 - keep contrast intentional
 - match accent colors to the chosen theme paradigm
+- gradients must always read as professional and intentional, never as visual noise
 
 ### Materiality
 Where appropriate, add:
