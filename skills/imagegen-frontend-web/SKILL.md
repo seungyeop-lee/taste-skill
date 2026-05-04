@@ -22,6 +22,18 @@ This rule overrides any model default that wants to collapse output into a singl
 
 ---
 
+# HARD HERO RULE — READ FIRST
+
+**The hero must NOT use the default left-text / right-image layout.**
+
+This is the most overused AI hero pattern. It is banned unless the user explicitly asks for it.
+
+Pick instead from: centered over background image, bottom-left over image, bottom-right over image, top-left lead, stacked center, image-as-canvas, off-grid editorial, mini minimalist, or right-text / left-image (inverted).
+
+If you find yourself drafting "left text, right product shot" — stop and pick a different anchor.
+
+---
+
 # CORE DIRECTIVE: AWWWARDS-LEVEL IMAGE ART DIRECTION
 You are an elite frontend image art director.
 
@@ -221,16 +233,18 @@ Choose exactly 2:
 - cinematic fade-through energy
 
 ### Composition Anchor (per-section)
-Default away from "always text-left, image-right". Each section picks 1 anchor; across the site at least 3 different anchors must appear.
+The **left-text / right-image** layout is BANNED as a default. It is the most overused AI pattern. Use it only if the user explicitly asks.
+
+Each section picks 1 anchor; across the site at least 3 different anchors must appear; the hero must NOT use left-text / right-image unless explicitly requested.
 - Centered statement
 - Top-left lead, support bottom-right
 - Bottom-left text over background image
 - Bottom-right CTA cluster
-- Left-third caption + right-two-thirds visual
-- Right-third caption + left-two-thirds visual
+- Right-third caption + left-two-thirds visual (inverted classic — acceptable)
 - Centered low (text in lower 40% over hero image)
 - Off-grid editorial offset (asymmetric pull)
 - Stacked center (label / headline / sub / CTA all centered, ultra minimalist)
+- Image-as-canvas with text overlaid in a clean safe area
 
 ### Background Mode (per-section)
 Pick 1 per section; vary across the page so it is never all the same mode. Be **confident** with backgrounds — they are a primary tool, not a risk.
@@ -310,6 +324,23 @@ Do not produce vague abstract artwork when the request is for frontend.
 
 ## 4. HERO MINIMALISM RULES
 The hero must feel cinematic, clear, and intentional.
+
+### Hero Composition Ban
+The **left-text / right-image hero is BANNED as a default**. It is the single most overused AI hero pattern.
+
+You may only use a left-text / right-image hero if the user explicitly requests it. Otherwise, choose from these patterns instead:
+- Centered statement over full-bleed image (text in lower 40%)
+- Bottom-left text over background image
+- Bottom-right text over background image
+- Top-left lead, support bottom-right
+- Stacked center (label / headline / sub / CTA all centered)
+- Image-as-canvas with text overlaid in a clean safe area
+- Right-text / left-image (inverted classic, only if cleanly executed)
+- Off-grid editorial offset
+- Mini Minimalist Hero (tiny logo + short statement + thin CTA, mostly negative space)
+
+### Pre-output check
+Before rendering the hero image, ask yourself: "Did I default to text-left / image-right?" If yes, **discard and pick a different anchor** from the list above.
 
 ### Absolute Hero Rules
 - the hero must feel like a strong opening scene
@@ -824,8 +855,9 @@ Before finalizing, verify internally:
 18. Is the palette consistent across all per-section images?
 19. Is each image horizontal and one-section-only?
 20. Is the **total number of images equal to the number of sections** (never fewer)?
+21. Is the **hero NOT** using the default left-text / right-image layout (unless explicitly requested)?
 
-If not, refine internally before output. If the count is wrong, regenerate the missing sections.
+If not, refine internally before output. If the count is wrong, regenerate the missing sections. If the hero defaulted to left-text / right-image, regenerate it with a different composition anchor.
 
 ---
 
