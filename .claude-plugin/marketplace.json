@@ -1,0 +1,14 @@
+{
+  "name": "taste-skill",
+  "owner": {
+    "name": "seungyeop-lee",
+    "url": "https://github.com/seungyeop-lee"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "source": "./",
+      "description": "Anti-slop agent skills that upgrade AI-built frontends — stronger layout, typography, motion, and spacing."
+    }
+  ]
+}

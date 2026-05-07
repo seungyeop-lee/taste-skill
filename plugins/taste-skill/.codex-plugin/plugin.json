@@ -1,0 +1,39 @@
+{
+  "name": "taste-skill",
+  "version": "0.1.0",
+  "description": "Anti-slop agent skills that upgrade AI-built frontends — stronger layout, typography, motion, and spacing.",
+  "author": {
+    "name": "seungyeop-lee",
+    "email": "xbeast7@gmail.com",
+    "url": "https://github.com/seungyeop-lee"
+  },
+  "homepage": "https://github.com/seungyeop-lee/taste-skill",
+  "repository": "https://github.com/seungyeop-lee/taste-skill",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "design",
+    "skills",
+    "taste"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Taste Skill",
+    "shortDescription": "Frontend design taste skills for Codex",
+    "longDescription": "Taste Skill packages frontend design, redesign, image-to-code, visual style, and output-quality skills for improving AI-built interfaces.",
+    "developerName": "seungyeop-lee",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/seungyeop-lee/taste-skill",
+    "defaultPrompt": [
+      "Use Taste Skill to improve this frontend.",
+      "Use redesign-existing-projects on this UI.",
+      "Use image-to-code for this design reference."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
